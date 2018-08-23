@@ -1,0 +1,36 @@
+#productContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.header__productCard {
+    border: solid 1px;
+    border-color: lightblue;
+}
+
+#specs {
+    padding: 0 10px;
+    text-align: left;
+}
+
+#pricing {
+    padding: 0 10px;
+    text-align: left;
+}
+
+.productCard {
+    background-color: slategrey;
+    width: 30%;
+    margin: 1%;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image__productCard {
+    max-width: 100%;
+}
+
+.available {
+    background-color: lightblue;
+}
