@@ -1,5 +1,5 @@
 body {
-    background-color: lightsteelblue;
+    background: #455A64;
 }
 
 #productContainer {
@@ -14,7 +14,9 @@ body {
     border-color: lightblue;
 }
 
-
+.description__productCard {
+    color: #FFFFFF;
+}
 
 .specs {
     font-weight: normal;
@@ -62,7 +64,7 @@ body {
 } */
 
 .productCard {
-    background-color: slategrey;
+    background: #607D8B;
     width: 30%;
     margin: 1%;
     text-align: center;
