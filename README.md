@@ -4,4 +4,4 @@ This website is a web mockup of laptops. It features a latin description, its av
 
 ## Screenshot
 ![main screenshot]
-(img/laptops.png)
+(img./laptops.png)
